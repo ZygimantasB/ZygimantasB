@@ -25,9 +25,19 @@
 ![DuckDB](https://img.shields.io/badge/-DuckDB-FCC624?style=flat-square&logo=duckdb)
 ![Kibana](https://img.shields.io/badge/-Kibana-005571?style=flat-square&logo=elastic)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+![DataGrip](https://img.shields.io/badge/-DataGrip-000000?style=flat-square&logo=datagrip&logoColor=white)
+![DataSpell](https://img.shields.io/badge/-DataSpell-000000?style=flat-square&logo=dataspell&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
-![Apache Superset](https://img.shields.io/badge/-Apache%20Superset-FF5A60?style=flat-square&logo=superset&logoColor=white)
+![Apache Superset](https://img.shields.io/badge/-Apache%20Superset-FF5A60?style=flat-square&logo=apache-superset&logoColor=white)
 ![Metabase](https://img.shields.io/badge/-Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -112,6 +122,7 @@
       <br>Docker
     </td>
     <td align="center" width="96">
+      <!-- No official SQLAlchemy icon, using generic database icon -->
       <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48" alt="SQLAlchemy" />
       <br>SQLAlchemy
     </td>
@@ -128,7 +139,7 @@
       <br>Kibana
     </td>
     <td align="center" width="96">
-      <img src="https://superset.apache.org/static/images/superset-logo-horiz.png" width="48" height="48" alt="Apache Superset" />
+      <img src="https://superset.apache.org/img/logo-positive.svg" width="48" height="48" alt="Apache Superset" />
       <br>Apache Superset
     </td>
     <td align="center" width="96">
@@ -142,10 +153,12 @@
       <br>Linux
     </td>
     <td align="center" width="96">
-      <img src="https://licensekeygen.net/wp-content/uploads/2022/07/Vmware_workstation_16_icon.svg_.png" width="48" height="48" alt="VMware" />
+      <!-- VMware icon -->
+      <img src="https://seeklogo.com/images/V/vmware-logo-A6F5E173D9-seeklogo.com.png" width="48" height="48" alt="VMware" />
       <br>VMware
     </td>
     <td align="center" width="96">
+      <!-- VirtualBox icon -->
       <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Virtualbox_logo.svg" width="48" height="48" alt="VirtualBox" />
       <br>VirtualBox
     </td>
@@ -154,12 +167,54 @@
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML5" />
-      <br>HTML5
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VSCode" />
+      <br>VSCode
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS3" />
-      <br>CSS3
+      <img src="https://www.vectorlogo.zone/logos/jetbrains_pycharm/jetbrains_pycharm-icon.svg" width="48" height="48" alt="PyCharm" />
+      <br>PyCharm
+    </td>
+    <td align="center" width="96">
+      <!-- DataGrip icon -->
+      <img src="https://resources.jetbrains.com/storage/products/datagrip/img/meta/datagrip_logo_300x300.png" width="48" height="48" alt="DataGrip" />
+      <br>DataGrip
+    </td>
+    <td align="center" width="96">
+      <!-- DataSpell icon -->
+      <img src="https://resources.jetbrains.com/storage/products/dataspell/img/meta/dataspell_logo_300x300.png" width="48" height="48" alt="DataSpell" />
+      <br>DataSpell
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Logo.svg" width="48" height="48" alt="Jupyter Notebook" />
+      <br>Jupyter Notebook
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="48" height="48" alt="GitLab" />
+      <br>GitLab
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_Microsoft_Windows_10.svg" width="48" height="48" alt="Windows" />
+      <br>Windows
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="48" height="48" alt="Ubuntu" />
+      <br>Ubuntu
+    </td>
+    <td align="center" width="96">
+      <!-- Add any additional tools here -->
+    </td>
+    <td align="center" width="96">
+      <!-- Empty -->
     </td>
   </tr>
 </table>
@@ -194,6 +249,13 @@ mindmap
       Docker
       VMware
       VirtualBox
+    IDEs and Tools
+      VSCode
+      PyCharm
+      DataGrip
+      DataSpell
+      Jupyter Notebook
+      Postman
     Data Visualization
       Apache Superset
       Kibana
@@ -201,3 +263,11 @@ mindmap
     Web Development
       HTML5
       CSS3
+      Bootstrap
+    Version Control
+      Git
+      GitLab
+      GitHub
+    Operating Systems
+      Ubuntu
+      Windows
