@@ -1,26 +1,160 @@
-<h1 align="center">Hi 👋, I'm Zygimantas</h1>
-<h3 align="center">A passionate backend developer, data analyst</h3>
+<div align="center">
+  <img src="https://github.com/ZygimantasB/ZygimantasB/assets/your-image-here" alt="Welcome Banner" style="width:85%;">
+  <h1>Hi 👋, I'm Žygimantas</h1>
+  <h3>A passionate Backend Developer and Data Analyst</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZygimantasB&langs_count=10&layout=compact&show_icons=true&count_private=true&text_color=fff&bg_color=000" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zygimantasb&label=Profile%20views&color=0e75b6&style=flat" alt="zygimantasb" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zygimantasb" alt="zygimantasb" /></a> </p>
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
+![Polars](https://img.shields.io/badge/-Polars-4A4A55?style=flat-square&logo=polars)
+![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apachespark)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+![DuckDB](https://img.shields.io/badge/-DuckDB-FCC624?style=flat-square&logo=duckdb)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
-- 🔭 I’m currently working on [data_science_ml_learning](https://github.com/ZygimantasB/data_science_ml_learning)
+</div>
 
-- 🌱 I’m currently learning **scikit-learn**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/ZygimantasB](https://github.com/ZygimantasB)
+- 🔭 I’m currently working on [Data Science and Machine Learning Projects](https://github.com/ZygimantasB/data_science_ml_learning)
+- 🌱 I’m currently learning **Advanced Machine Learning Techniques**
+- 👯 I’m looking to collaborate on **Open-source Data Science Projects**
+- 💬 Ask me about **Python, Data Analysis, and Backend Development**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/žygimantas-b-909939228/)
+- ⚡ Fun fact: I enjoy exploring new data science tools and frameworks!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/žygimantas-b-909939228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="žygimantas-b-909939228" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZygimantasB&show_icons=true&theme=dark&hide_border=true" alt="Žygimantas's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZygimantasB&theme=dark&hide_border=true" alt="Žygimantas's GitHub Streak" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zygimantasb&show_icons=true&locale=en&layout=compact" alt="zygimantasb" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zygimantasb&show_icons=true&locale=en" alt="zygimantasb" /></p>
+<div align="center">
+  <h2>🚀 Projects</h2>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zygimantasb&" alt="zygimantasb" /></p>
+| ID  | Project Name                                                           | Description                                                                                            | Repository Link                                                                          |
+|-----|------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| 01  | **Data Science and Machine Learning Learning**                         | A repository containing learning materials and projects related to data science and machine learning.  | [GitHub](https://github.com/ZygimantasB/data_science_ml_learning)                       |
+| 02  | **[Your Project Name]**                                                | [Brief description of your project.]                                                                   | [GitHub](https://github.com/ZygimantasB/your-project-repo)                               |
+| 03  | **[Another Project Name]**                                             | [Brief description of another project.]                                                                | [GitHub](https://github.com/ZygimantasB/another-project-repo)                            |
+
+*(Feel free to add more projects or remove this section if not applicable.)*
+
+---
+
+<div align="center">
+  <h2>🛠️ Tools & Technologies</h2>
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="48" height="48" alt="Flask" />
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+      <br>NumPy
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+      <br>Pandas
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" />
+      <br>Scikit-learn
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachespark.svg" width="48" height="48" alt="PySpark" />
+      <br>PySpark
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/duckdb.svg" width="48" height="48" alt="DuckDB" />
+      <br>DuckDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://matplotlib.org/_static/images/logo2.svg" width="48" height="48" alt="Matplotlib" />
+      <br>Matplotlib
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/polars.svg" width="48" height="48" alt="Polars" />
+      <br>Polars
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <h2>🧠 Knowledge Base</h2>
+</div>
+
+```mermaid
+mindmap
+  root((Žygimantas))
+    Backend Development
+      Python
+      Django
+      Flask
+      SQL
+    Data Analysis
+      NumPy
+      Pandas
+      Polars
+      PySpark
+    Machine Learning
+      Scikit-learn
+      Data Visualization
+      Matplotlib
+    Web Development
+      HTML5
+      CSS3
