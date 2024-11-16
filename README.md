@@ -128,7 +128,7 @@
       <br>VMware
     </td>
     <td align="center" width="96">
-      <img src="https://static.wikia.nocookie.net/logopedia/images/8/84/Innotek_VirtualBox_%282007-2008%29.png/revision/latest?cb=20210412015858" width="48" height="48" alt="VirtualBox" />
+      <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2890910c-866d-4a01-af6a-2067e1209024/dccphr2-017f4f0c-ffd9-45cd-aa68-9229f47e2563.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI4OTA5MTBjLTg2NmQtNGEwMS1hZjZhLTIwNjdlMTIwOTAyNFwvZGNjcGhyMi0wMTdmNGYwYy1mZmQ5LTQ1Y2QtYWE2OC05MjI5ZjQ3ZTI1NjMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.36L6OHSRtW5swe0KvVQr2zlnjaPHSyTQdtyAMrqw5Xs" width="48" height="48" alt="VirtualBox" />
       <br>VirtualBox
     </td>
     <td align="center" width="96">
