@@ -147,7 +147,7 @@
     </td>
     <td align="center" width="96">
       <!-- VMware icon -->
-      <img src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" width="48" height="48" alt="VMware" />
+      <img src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg](https://licensekeygen.net/wp-content/uploads/2022/07/Vmware_workstation_16_icon.svg_.png" width="48" height="48" alt="VMware" />
       <br>VMware
     </td>
     <td align="center" width="96">
