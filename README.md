@@ -263,7 +263,6 @@ mindmap
       Django
       Flask
       SQLAlchemy
-      SQL
       SQLite
       MySQL
     Data Analysis
