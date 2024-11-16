@@ -60,7 +60,6 @@
 | ID  | Project Name                                                           | Description                                                                                            | Repository Link                                                                          |
 |-----|------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | 01  | **Data Science and Machine Learning Learning**                         | A repository containing learning materials and projects related to data science and machine learning.  | [GitHub](https://github.com/ZygimantasB/data_science_ml_learning)                       |
-<!-- Add more projects as needed -->
 
 ---
 
@@ -79,7 +78,7 @@
       <br>Django
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="48" height="48" alt="Flask" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" />
       <br>Flask
     </td>
     <td align="center" width="96">
@@ -114,7 +113,7 @@
     </td>
     <td align="center" width="96">
       <!-- No official SQLAlchemy icon, using generic database icon -->
-      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48" alt="SQLAlchemy" />
+      <img src="https://www.svgrepo.com/show/303229/sqlite-logo.svg" width="48" height="48" alt="SQLAlchemy" />
       <br>SQLAlchemy
     </td>
     <td align="center" width="96">
@@ -131,7 +130,7 @@
     </td>
     <td align="center" width="96">
       <!-- Apache Superset icon -->
-      <img src="https://cdn.worldvectorlogo.com/logos/apache-superset-1.svg" width="48" height="48" alt="Apache Superset" />
+      <img src="https://superset.apache.org/static/images/superset-logo-horiz.png" width="48" height="48" alt="Apache Superset" />
       <br>Apache Superset
     </td>
     <td align="center" width="96">
@@ -147,12 +146,12 @@
     </td>
     <td align="center" width="96">
       <!-- VMware icon -->
-      <img src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" width="48" height="48" alt="VMware" />
+      <img src="https://www.svgrepo.com/show/354115/vmware.svg" width="48" height="48" alt="VMware" />
       <br>VMware
     </td>
     <td align="center" width="96">
       <!-- VirtualBox icon -->
-      <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" width="48" height="48" alt="VirtualBox" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Virtualbox_logo.svg" width="48" height="48" alt="VirtualBox" />
       <br>VirtualBox
     </td>
     <td align="center" width="96">
