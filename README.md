@@ -156,7 +156,7 @@
     </td>
     <td align="center" width="96">
       <!-- VMware icon -->
-      <img src="https://seeklogo.com/images/V/vmware-logo-A6F5E173D9-seeklogo.com.png" width="48" height="48" alt="VMware" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/150px-Vmware_workstation_16_icon.svg.png" width="48" height="48" alt="VMware" />
       <br>VMware
     </td>
     <td align="center" width="96">
