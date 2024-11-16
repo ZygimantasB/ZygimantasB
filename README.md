@@ -15,7 +15,7 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
 ![Polars](https://img.shields.io/badge/-Polars-4A4A55?style=flat-square&logo=polars)
 ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apachespark)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=seaborn&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-39609B?style=flat-square&logo=sqlalchemy&logoColor=white)
@@ -23,11 +23,12 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
 ![DuckDB](https://img.shields.io/badge/-DuckDB-FCC624?style=flat-square&logo=duckdb)
-![Kibana](https://img.shields.io/badge/-Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
+![Kibana](https://img.shields.io/badge/-Kibana-005571?style=flat-square&logo=elastic)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 ![Apache Superset](https://img.shields.io/badge/-Apache%20Superset-FF5A60?style=flat-square&logo=apache-superset&logoColor=white)
+![Metabase](https://img.shields.io/badge/-Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
@@ -78,7 +79,7 @@
       <br>Django
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" />
+      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="48" height="48" alt="Flask" />
       <br>Flask
     </td>
     <td align="center" width="96">
@@ -112,7 +113,8 @@
       <br>Docker
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" width="48" height="48" alt="SQLAlchemy" />
+      <!-- No official SQLAlchemy icon, using generic database icon -->
+      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48" alt="SQLAlchemy" />
       <br>SQLAlchemy
     </td>
     <td align="center" width="96">
@@ -128,21 +130,29 @@
       <br>Kibana
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/apache-superset.svg" width="48" height="48" alt="Apache Superset" />
+      <!-- Apache Superset icon -->
+      <img src="https://cdn.worldvectorlogo.com/logos/apache-superset-1.svg" width="48" height="48" alt="Apache Superset" />
       <br>Apache Superset
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-      <br>Linux
+      <!-- Metabase icon -->
+      <img src="https://www.vectorlogo.zone/logos/metabase/metabase-icon.svg" width="48" height="48" alt="Metabase" />
+      <br>Metabase
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <!-- VMware icon -->
       <img src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" width="48" height="48" alt="VMware" />
       <br>VMware
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Virtualbox_logo.png" width="48" height="48" alt="VirtualBox" />
+      <!-- VirtualBox icon -->
+      <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" width="48" height="48" alt="VirtualBox" />
       <br>VirtualBox
     </td>
     <td align="center" width="96">
@@ -157,7 +167,6 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS3" />
       <br>CSS3
     </td>
-    <!-- Add more tools and technologies as needed -->
   </tr>
 </table>
 
@@ -194,6 +203,7 @@ mindmap
     Data Visualization
       Apache Superset
       Kibana
+      Metabase
     Web Development
       HTML5
       CSS3
