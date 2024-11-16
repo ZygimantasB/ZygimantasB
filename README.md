@@ -228,6 +228,34 @@
 ---
 
 <div align="center">
+  <h2>🐍 Dynamic Activity & Visitor Count</h2>
+</div>
+
+<div align="center">
+  <!-- Snake animation for contributions -->
+  <img src="https://raw.githubusercontent.com/AgungHari/AgungHari/output/snake.svg" alt="Snake Animation" style="width: 85%;">
+</div>
+
+---
+
+<div align="center">
+  <!-- Activity graph for GitHub contributions -->
+  <h2>💹 Contribution Graph</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GodHad&theme=react-dark" alt="GitHub Activity Graph" style="width: 85%;">
+</div>
+
+---
+
+<div align="center">
+  <!-- Visitor count badge -->
+  <h2>👀 Visitor Counter</h2>
+  <p><b>Number of Visitors to My Profile:</b></p>
+  <img src="https://profile-counter.glitch.me/{WesleyA0101}/count.svg" alt="Visitor Count">
+</div>
+
+---
+
+<div align="center">
   <h2 style="font-size: 2.5em;">🧠 Knowledge Base</h2>
 </div>
 
