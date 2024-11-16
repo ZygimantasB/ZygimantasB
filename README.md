@@ -124,7 +124,7 @@
     </td>
     <td align="center" width="96">
       <!-- SQLAlchemy -->
-      <img src="https://cdn.hackersandslackers.com/2020/08/sqlalchemy2.png" width="48" height="48" alt="SQLAlchemy" />
+      <img src="https://seeklogo.com/images/S/sqlalchemy-logo-4B94AE45D9-seeklogo.com.png" width="48" height="48" alt="SQLAlchemy" />
       <br>SQLAlchemy
     </td>
     <td align="center" width="96">
