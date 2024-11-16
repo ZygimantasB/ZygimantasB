@@ -6,6 +6,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZygimantasB&langs_count=10&layout=compact&show_icons=true&count_private=true&text_color=fff&bg_color=000" />
 </div>
 
+
+
+<a href="#--about-me--"><img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=ZygimantasB&data=followers,repositories,stars,commits&theme=radical&title_color=000000"></a>
+<a href="#-my-github-stats--"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZygimantasB&theme=transparent" alt="goldsunshines" /></a>
+
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=cgrundman&theme=darkhub&no-frame=true&no-bg=false&row=2&column=5&no-bg=true)
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python)
