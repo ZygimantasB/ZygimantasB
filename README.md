@@ -27,7 +27,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
-![Apache Superset](https://img.shields.io/badge/-Apache%20Superset-FF5A60?style=flat-square&logo=apache-superset&logoColor=white)
+![Apache Superset](https://img.shields.io/badge/-Apache%20Superset-FF5A60?style=flat-square&logo=superset&logoColor=white)
 ![Metabase](https://img.shields.io/badge/-Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -60,7 +60,6 @@
 | ID  | Project Name                                                           | Description                                                                                            | Repository Link                                                                          |
 |-----|------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | 01  | **Data Science and Machine Learning Learning**                         | A repository containing learning materials and projects related to data science and machine learning.  | [GitHub](https://github.com/ZygimantasB/data_science_ml_learning)                       |
-<!-- Add more projects as needed -->
 
 ---
 
@@ -79,7 +78,7 @@
       <br>Django
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="48" height="48" alt="Flask" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" />
       <br>Flask
     </td>
     <td align="center" width="96">
@@ -113,7 +112,6 @@
       <br>Docker
     </td>
     <td align="center" width="96">
-      <!-- No official SQLAlchemy icon, using generic database icon -->
       <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48" alt="SQLAlchemy" />
       <br>SQLAlchemy
     </td>
@@ -130,12 +128,10 @@
       <br>Kibana
     </td>
     <td align="center" width="96">
-      <!-- Apache Superset icon -->
-      <img src="https://cdn.worldvectorlogo.com/logos/apache-superset-1.svg" width="48" height="48" alt="Apache Superset" />
+      <img src="https://superset.apache.org/static/images/superset-logo-horiz.png" width="48" height="48" alt="Apache Superset" />
       <br>Apache Superset
     </td>
     <td align="center" width="96">
-      <!-- Metabase icon -->
       <img src="https://www.vectorlogo.zone/logos/metabase/metabase-icon.svg" width="48" height="48" alt="Metabase" />
       <br>Metabase
     </td>
@@ -146,13 +142,11 @@
       <br>Linux
     </td>
     <td align="center" width="96">
-      <!-- VMware icon -->
-      <img src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg](https://licensekeygen.net/wp-content/uploads/2022/07/Vmware_workstation_16_icon.svg_.png" width="48" height="48" alt="VMware" />
+      <img src="https://licensekeygen.net/wp-content/uploads/2022/07/Vmware_workstation_16_icon.svg_.png" width="48" height="48" alt="VMware" />
       <br>VMware
     </td>
     <td align="center" width="96">
-      <!-- VirtualBox icon -->
-      <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" width="48" height="48" alt="VirtualBox" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Virtualbox_logo.svg" width="48" height="48" alt="VirtualBox" />
       <br>VirtualBox
     </td>
     <td align="center" width="96">
