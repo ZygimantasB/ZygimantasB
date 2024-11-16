@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Replace 'your-image-url' with the actual URL of your welcome banner image -->
-  <img src="https://i.postimg.cc/wvCVwHLW/DALL-E-2024-11-16-22-28-58-A-visually-striking-welcome-image-for-a-Git-Hub-README-page-featuring-a.webp" alt="Welcome Banner" style="width:85%;">
+  <img src="https://i.postimg.cc/wvCVwHLW/DALL-E-2024-11-16-22-28-58-A-visually-striking-welcome-image-for-a-Git-Hub-README-page-featuring-a.webp" alt="Welcome Banner" style="width:35%;">
   <h1>Hi 👋, I'm Žygimantas</h1>
   <h3>A passionate Backend Developer and Data Analyst</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZygimantasB&langs_count=10&layout=compact&show_icons=true&count_private=true&text_color=fff&bg_color=000" />
@@ -228,9 +228,11 @@
 ---
 
 <div align="center">
-  <h2>🧠 Knowledge Base</h2>
+  <h2 style="font-size: 2.5em;">🧠 Knowledge Base</h2>
 </div>
 
+<div align="center" style="width: 100%; max-width: 800px; margin: 0 auto; text-align: center;">
+  
 ```mermaid
 mindmap
   root((Žygimantas))
@@ -271,7 +273,6 @@ mindmap
       CSS3
       Bootstrap
     Version Control
-      Git
       GitLab
       GitHub
     Operating Systems
