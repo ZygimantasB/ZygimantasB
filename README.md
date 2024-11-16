@@ -67,9 +67,9 @@
   <h2>🚀 Projects</h2>
 </div>
 
-| ID  | Project Name                                                           | Description                                                                                            | Repository Link                                                                          |
-|-----|------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-| 01  | **Data Science and Machine Learning Learning**                         | A repository containing learning materials and projects related to data science and machine learning.  | [GitHub](https://github.com/ZygimantasB/data_science_ml_learning)                       |
+| ID  | Project Name                                          | Description                                                                               | Repository Link                                                                   |
+|-----|-------------------------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| 01  | **Data Science and Machine Learning Learning**        | A repository containing learning materials and projects related to data science and ML.   | [GitHub](https://github.com/ZygimantasB/data_science_ml_learning)                 |
 
 ---
 
@@ -88,7 +88,8 @@
       <br>Django
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" />
+      <!-- Flask -->
+      <img src="https://www.svgrepo.com/show/473611/flask.svg" width="48" height="48" alt="Flask" />
       <br>Flask
     </td>
     <td align="center" width="96">
@@ -122,8 +123,8 @@
       <br>Docker
     </td>
     <td align="center" width="96">
-      <!-- No official SQLAlchemy icon, using generic database icon -->
-      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48" alt="SQLAlchemy" />
+      <!-- SQLAlchemy -->
+      <img src="https://cdn.hackersandslackers.com/2020/08/sqlalchemy2.png" width="48" height="48" alt="SQLAlchemy" />
       <br>SQLAlchemy
     </td>
     <td align="center" width="96">
@@ -139,7 +140,8 @@
       <br>Kibana
     </td>
     <td align="center" width="96">
-      <img src="https://superset.apache.org/img/logo-positive.svg" width="48" height="48" alt="Apache Superset" />
+      <!-- Apache Superset -->
+      <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*O5t1mgVu_DGPTMA6" width="48" height="48" alt="Apache Superset" />
       <br>Apache Superset
     </td>
     <td align="center" width="96">
@@ -158,8 +160,8 @@
       <br>VMware
     </td>
     <td align="center" width="96">
-      <!-- VirtualBox icon -->
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Virtualbox_logo.svg" width="48" height="48" alt="VirtualBox" />
+      <!-- VirtualBox -->
+      <img src="https://static.wikia.nocookie.net/logopedia/images/8/84/Innotek_VirtualBox_%282007-2008%29.png/revision/latest?cb=20210412015858" width="48" height="48" alt="VirtualBox" />
       <br>VirtualBox
     </td>
     <td align="center" width="96">
@@ -171,7 +173,8 @@
       <br>VSCode
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/jetbrains_pycharm/jetbrains_pycharm-icon.svg" width="48" height="48" alt="PyCharm" />
+      <!-- PyCharm -->
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="48" height="48" alt="PyCharm" />
       <br>PyCharm
     </td>
     <td align="center" width="96">
@@ -180,14 +183,15 @@
       <br>DataGrip
     </td>
     <td align="center" width="96">
-      <!-- DataSpell icon -->
-      <img src="https://resources.jetbrains.com/storage/products/dataspell/img/meta/dataspell_logo_300x300.png" width="48" height="48" alt="DataSpell" />
+      <!-- DataSpell -->
+      <img src="https://seeklogo.com/images/D/dataspell-logo-06435B9CF3-seeklogo.com.png" width="48" height="48" alt="DataSpell" />
       <br>DataSpell
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Logo.svg" width="48" height="48" alt="Jupyter Notebook" />
+      <!-- Jupyter Notebook -->
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="48" height="48" alt="Jupyter Notebook" />
       <br>Jupyter Notebook
     </td>
     <td align="center" width="96">
@@ -203,11 +207,13 @@
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_Microsoft_Windows_10.svg" width="48" height="48" alt="Windows" />
+      <!-- Windows -->
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="48" height="48" alt="Windows" />
       <br>Windows
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="48" height="48" alt="Ubuntu" />
+      <!-- Ubuntu -->
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" width="48" height="48" alt="Ubuntu" />
       <br>Ubuntu
     </td>
     <td align="center" width="96">
