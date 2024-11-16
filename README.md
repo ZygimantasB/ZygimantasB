@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Replace 'your-image-url' with the actual URL of your welcome banner image -->
-  <img src="your-image-url" alt="Welcome Banner" style="width:85%;">
+  <img src="https://i.postimg.cc/wvCVwHLW/DALL-E-2024-11-16-22-28-58-A-visually-striking-welcome-image-for-a-Git-Hub-README-page-featuring-a.webp" alt="Welcome Banner" style="width:85%;">
   <h1>Hi 👋, I'm Žygimantas</h1>
   <h3>A passionate Backend Developer and Data Analyst</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZygimantasB&langs_count=10&layout=compact&show_icons=true&count_private=true&text_color=fff&bg_color=000" />
