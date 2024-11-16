@@ -256,10 +256,30 @@
 ---
 
 <div align="center">
-  <h2 style="font-size: 2.5em;">🧠 Knowledge Base</h2>
+  <h2 style="font-size: 3em; color: #4CAF50;">🌟 Knowledge Base 🌟</h2>
+  <p style="font-size: 1.2em; color: #555;">Explore my areas of expertise and tools that empower my development journey.</p>
 </div>
 
-<div align="center" style="width: 100%; max-width: 800px; margin: 0 auto; text-align: center;">
+<div align="center" style="width: 90%; max-width: 1000px; margin: 20px auto; padding: 20px; background: #f9f9f9; border-radius: 15px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+  <h3 style="font-size: 2em; color: #3F51B5;">💡 Areas of Expertise</h3>
+  <ul style="list-style-type: none; padding: 0; font-size: 1.1em; color: #333;">
+    <li><b>Backend Development:</b> Python, Django, Flask, SQLAlchemy, SQL, SQLite, MySQL</li>
+    <li><b>Data Analysis:</b> NumPy, Pandas, Polars, PySpark</li>
+    <li><b>Machine Learning:</b> Scikit-learn, Seaborn, Matplotlib</li>
+    <li><b>DevOps:</b> Docker, VMware, VirtualBox</li>
+    <li><b>IDEs and Tools:</b> VSCode, PyCharm, DataGrip, DataSpell, Jupyter Notebook, Postman</li>
+    <li><b>Data Visualization:</b> Apache Superset, Kibana, Metabase</li>
+    <li><b>Web Development:</b> HTML5, CSS3, Bootstrap</li>
+    <li><b>Version Control:</b> GitLab, GitHub</li>
+    <li><b>Operating Systems:</b> Ubuntu, Windows</li>
+  </ul>
+</div>
+
+<div align="center" style="margin: 40px 0;">
+  <h3 style="font-size: 2em; color: #009688;">🛠 Visualized Knowledge Map</h3>
+</div>
+
+<div align="center" style="width: 100%; max-width: 1000px; margin: 0 auto; text-align: center; background: #f3f3f3; padding: 20px; border-radius: 10px;">
   
 ```mermaid
 mindmap
@@ -306,3 +326,4 @@ mindmap
     Operating Systems
       Ubuntu
       Windows
+
