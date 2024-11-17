@@ -225,12 +225,42 @@
       <br>Ploty
   </td>
   <td align="center" width="96">
-    <!-- Empty -->
+      <img src="https://img.icons8.com/?size=48&id=D5XsEXNbhkMI&format=png" width="48" height="48" alt="PostgreSQL" />
+      <br>GitHub
   </td>
   <td align="center" width="96">
     <!-- Empty -->
   </td>
 </tr>
+
+  <!-- Fifth Row -->
+<tr>
+  <td align="center" width="96">
+    <!-- Empty -->
+  </td>
+  <td align="center" width="96">
+    <!-- Empty -->
+  </td>
+  <td align="center" width="96">
+    <!-- Empty -->
+  </td>
+  <td align="center" width="96">
+    <!-- Empty -->
+  </td>
+  <td align="center" width="96">
+    <!-- Empty -->
+  </td>
+  <td align="center" width="96">
+    <!-- Empty -->
+  </td>
+  <td align="center" width="96">
+    <!-- Empty -->
+  </td>
+  <td align="center" width="96">
+
+  </td>
+</tr>
+
 </table>
 
 ---
