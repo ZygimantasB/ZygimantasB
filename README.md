@@ -58,8 +58,8 @@
       <br>Django
     </td>
     <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/473611/flask.svg" width="48" height="48" alt="Flask" />
-      <br>Flask
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn" />
+      <br>Seaborn
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
@@ -85,8 +85,8 @@
   <!-- Second Row -->
   <tr>
     <td align="center" width="96">
-      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn" />
-      <br>Seaborn
+      <img src="https://www.svgrepo.com/show/508915/flask.svg" width="48" height="48" alt="Flask" />
+      <br>Flask
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
@@ -128,7 +128,7 @@
       <br>VMware
     </td>
     <td align="center" width="96">
-      <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2890910c-866d-4a01-af6a-2067e1209024/dccphr2-017f4f0c-ffd9-45cd-aa68-9229f47e2563.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI4OTA5MTBjLTg2NmQtNGEwMS1hZjZhLTIwNjdlMTIwOTAyNFwvZGNjcGhyMi0wMTdmNGYwYy1mZmQ5LTQ1Y2QtYWE2OC05MjI5ZjQ3ZTI1NjMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.36L6OHSRtW5swe0KvVQr2zlnjaPHSyTQdtyAMrqw5Xs" width="48" height="48" alt="VirtualBox" />
+      <img src="https://www.svgrepo.com/show/374151/vagrant.svg" width="48" height="48" alt="VirtualBox" />
       <br>VirtualBox
     </td>
     <td align="center" width="96">
@@ -167,7 +167,7 @@
       <br>Postman
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+      <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
@@ -179,12 +179,47 @@
       <br>Ubuntu
     </td>
     <td align="center" width="96">
-      <!-- Empty Space -->
+      <img src="https://raw.githubusercontent.com/duckdb/duckdb-web/a60b3bf3fdc1c012af552e862f4b472b76849a7f/images/duckdb_logo_dl.svg" width="48" height="48" alt="DuckDB" />
+      <br>DuckDB
     </td>
     <td align="center" width="96">
-      <!-- Empty Space -->
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
     </td>
   </tr>
+
+  <!-- Fifth Row -->
+<tr>
+  <td align="center" width="96">
+      <img src="https://www.svgrepo.com/show/354802/archlinux.svg" width="48" height="48" alt="PostgreSQL" />
+      <br>ArchLinux
+  </td>
+  <td align="center" width="96">
+      <img src="https://www.svgrepo.com/show/303574/elasticsearch-logo.svg" width="48" height="48" alt="PostgreSQL" />
+      <br>ElasticSearch
+  </td>
+  <td align="center" width="96">
+      <img src="https://www.svgrepo.com/show/354912/debian.svg" width="48" height="48" alt="PostgreSQL" />
+      <br>Debian
+  </td>
+  <td align="center" width="96">
+      <img src="https://www.svgrepo.com/show/354258/raspberry-pi.svg" width="48" height="48" alt="PostgreSQL" />
+      <br>Raspberry Pi
+  </td>
+  <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Apple_logo_grey.svg/1024px-Apple_logo_grey.svg.png" width="48" height="48" alt="PostgreSQL" />
+      <br>MAC OS
+  </td>
+  <td align="center" width="96">
+    <!-- Empty -->
+  </td>
+  <td align="center" width="96">
+    <!-- Empty -->
+  </td>
+  <td align="center" width="96">
+    <!-- Empty -->
+  </td>
+</tr>
 </table>
 
 ---
