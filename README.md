@@ -10,6 +10,15 @@
 <div align="center">
   <h2>About Me</h2>
   <p>
+    I am passionate about uncovering insights and solving complex problems, transitioning into the field of data analysis. With a strong foundation in Python programming and a deep interest in data-driven decision-making, I have been self-teaching techniques in data cleaning, manipulation, and visualization.
+  </p>
+  <p>
+    I specialize in tools such as Pandas, Polars, NumPy, Matplotlib, Seaborn, and Plotly to analyze and visualize data effectively. I am also proficient in creating interactive dashboards using Apache Superset to enable actionable insights and support data-driven strategies. My adaptability, attention to detail, and commitment to mastering new tools and techniques make me an asset in analytics and business intelligence roles.
+  </p>
+  <p>
+    As I build my portfolio, I aim to contribute to meaningful projects where data drives innovation and success.
+  </p>
+  <p>
     🔭 I’m currently working on <a href="https://github.com/ZygimantasB/data_science_ml_learning">Data Science and Machine Learning Projects</a><br>
     🌱 I’m currently learning <strong>Advanced Machine Learning Techniques</strong><br>
     👯 I’m looking to collaborate on <strong>Open-source Data Science Projects</strong><br>
@@ -18,6 +27,7 @@
     ⚡ Fun fact: I enjoy exploring new data science tools and frameworks!
   </p>
 </div>
+
 
 ---
 
@@ -211,7 +221,8 @@
       <br>MAC OS
   </td>
   <td align="center" width="96">
-    <!-- Empty -->
+      <img src="https://scontent.fvno2-1.fna.fbcdn.net/v/t39.30808-1/254267366_3036062456517747_972143518663010992_n.png?stp=dst-png_s200x200&_nc_cat=111&ccb=1-7&_nc_sid=f4b9fd&_nc_ohc=p3AOMZZeDVIQ7kNvgGhhz5k&_nc_zt=24&_nc_ht=scontent.fvno2-1.fna&_nc_gid=AotB3JtEHqclIsyMyUAFwXH&oh=00_AYCcov-ggMcuJ-WwiET9DIukYDMWFIrB3FRQwhqX1tyz5g&oe=673F9816" width="48" height="48" alt="PostgreSQL" />
+      <br>Ploty
   </td>
   <td align="center" width="96">
     <!-- Empty -->
