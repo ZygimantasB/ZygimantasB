@@ -205,19 +205,19 @@
   <!-- Fifth Row -->
 <tr>
   <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/354802/archlinux.svg" width="48" height="48" alt="PostgreSQL" />
+      <img src="https://www.svgrepo.com/show/354802/archlinux.svg" width="48" height="48" alt="ArchLinux" />
       <br>ArchLinux
   </td>
   <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/303574/elasticsearch-logo.svg" width="48" height="48" alt="PostgreSQL" />
+      <img src="https://www.svgrepo.com/show/303574/elasticsearch-logo.svg" width="48" height="48" alt="ElasticSearch" />
       <br>ElasticSearch
   </td>
   <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/354912/debian.svg" width="48" height="48" alt="PostgreSQL" />
+      <img src="https://www.svgrepo.com/show/354912/debian.svg" width="48" height="48" alt="Debian" />
       <br>Debian
   </td>
   <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/354258/raspberry-pi.svg" width="48" height="48" alt="PostgreSQL" />
+      <img src="https://www.svgrepo.com/show/354258/raspberry-pi.svg" width="48" height="48" alt="RaspberryPi" />
       <br>Raspberry Pi
   </td>
   <td align="center" width="96">
@@ -225,15 +225,16 @@
       <br>MAC OS
   </td>
   <td align="center" width="96">
-      <img src="https://scontent.fvno2-1.fna.fbcdn.net/v/t39.30808-1/254267366_3036062456517747_972143518663010992_n.png?stp=dst-png_s200x200&_nc_cat=111&ccb=1-7&_nc_sid=f4b9fd&_nc_ohc=p3AOMZZeDVIQ7kNvgGhhz5k&_nc_zt=24&_nc_ht=scontent.fvno2-1.fna&_nc_gid=AotB3JtEHqclIsyMyUAFwXH&oh=00_AYCcov-ggMcuJ-WwiET9DIukYDMWFIrB3FRQwhqX1tyz5g&oe=673F9816" width="48" height="48" alt="PostgreSQL" />
+      <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2017/01/04015019/plotly_logo.png" width="48" height="48" alt="Ploty" />
       <br>Ploty
   </td>
   <td align="center" width="96">
-      <img src="https://img.icons8.com/?size=48&id=D5XsEXNbhkMI&format=png" width="48" height="48" alt="PostgreSQL" />
+      <img src="https://img.icons8.com/?size=48&id=D5XsEXNbhkMI&format=png" width="48" height="48" alt="GitHub" />
       <br>GitHub
   </td>
   <td align="center" width="96">
-    <!-- Empty -->
+      <img src="https://eudriscabrera.com/images/blog/2022/f644e813-ff4f-41c0-af52-30cba1aa0d7c.001.png" width="48" height="48" alt="Regex" />
+      <br>Regex
   </td>
 </tr>
 
