@@ -273,9 +273,18 @@
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=ZygimantasB&show_icons=true&theme=dark&hide_border=true" alt="Žygimantas's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZygimantasB&theme=dark&hide_border=true" alt="Žygimantas's GitHub Streak" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ZygimantasB&show_icons=true&theme=dark&hide_border=true" alt="ZygimantasB's GitHub Stats" />
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZygimantasB&theme=dark&hide_border=true" alt="ZygimantasB's GitHub Streak" />
+  
+  <!-- WakaTime Stats -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ZygimantasB&theme=dark&hide_border=true" alt="ZygimantasB's WakaTime Stats" />
+  </a>
 </div>
+
 
 ---
 
