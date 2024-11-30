@@ -273,6 +273,7 @@
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
+  
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=ZygimantasB&show_icons=true&theme=dark&hide_border=true" alt="ZygimantasB's GitHub Stats" />
   
@@ -283,6 +284,13 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ZygimantasB&theme=dark&hide_border=true" alt="ZygimantasB's WakaTime Stats" />
   </a>
+  
+  <!-- WakaTime Badge -->
+  <div>
+    <a href="https://wakatime.com/@7d99a804-4ea4-48e9-8ab2-a1f8c025baeb">
+      <img src="https://wakatime.com/badge/user/7d99a804-4ea4-48e9-8ab2-a1f8c025baeb.svg" alt="Total time coded since Nov 30 2024" />
+    </a>
+  </div>
 </div>
 
 
