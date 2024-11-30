@@ -281,7 +281,7 @@
   
   <!-- WakaTime Stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ZygimantasB&theme=dark&hide_border=true" alt="ZygimantasB's WakaTime Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ZygimantasB&theme=dark&hide_border=true" alt="ZygimantasB WakaTime Stats" />
   </a>
 </div>
 
