@@ -242,6 +242,35 @@
   <!-- Fifth Row -->
 <tr>
   <td align="center" width="96">
+    <img src="https://pola.rs/_astro/polars-gradient.CuhLEjpI_12SP1L.svg" width="48" height="48" alt="polars" />
+      <br>Polars
+  </td>
+  <td align="center" width="96">
+    <!-- Empty -->
+  </td>
+  <td align="center" width="96">
+    <!-- Empty -->
+  </td>
+  <td align="center" width="96">
+    <!-- Empty -->
+  </td>
+  <td align="center" width="96">
+    <!-- Empty -->
+  </td>
+  <td align="center" width="96">
+    <!-- Empty -->
+  </td>
+  <td align="center" width="96">
+    <!-- Empty -->
+  </td>
+  <td align="center" width="96">
+
+  </td>
+</tr>
+
+ <!-- Six Row -->
+<tr>
+  <td align="center" width="96">
     <!-- Empty -->
   </td>
   <td align="center" width="96">
@@ -266,6 +295,7 @@
 
   </td>
 </tr>
+
 
 </table>
 
