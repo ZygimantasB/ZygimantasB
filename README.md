@@ -246,7 +246,8 @@
       <br>Polars
   </td>
   <td align="center" width="96">
-    <!-- Empty -->
+    <img src="https://www.svgrepo.com/show/373924/nginx.svg" width="48" height="48" alt="nginx" />
+      <br>Nginx
   </td>
   <td align="center" width="96">
     <!-- Empty -->
