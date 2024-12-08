@@ -250,7 +250,8 @@
       <br>Nginx
   </td>
   <td align="center" width="96">
-    <!-- Empty -->
+    <img src="https://insidesources.com/wp-content/uploads/2020/03/bigstock-Ai-Artificial-Intelligence-Lo-343525045-e1583413134953-300x281.jpg" width="48" height="48" alt="promt_enginiering" />
+      <br>Promt Enginiering
   </td>
   <td align="center" width="96">
     <!-- Empty -->
