@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.postimg.cc/wvCVwHLW/DALL-E-2024-11-16-22-28-58-A-visually-striking-welcome-image-for-a-Git-Hub-README-page-featuring-a.webp" alt="Welcome Banner" style="width:35%;">
   <h1>Hi 👋, I'm Žygimantas</h1>
-  <h3>A passionate Backend Developer and Data Analyst</h3>
+  <h3>A passionate Data Analyst</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZygimantasB&langs_count=10&layout=compact&show_icons=true&count_private=true&text_color=fff&bg_color=000" />
 </div>
 
@@ -89,8 +89,8 @@
       <br>Scikit-learn
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="48" height="48" alt="PySpark" />
-      <br>PySpark
+      <img src="https://www.svgrepo.com/show/373924/nginx.svg" width="48" height="48" alt="nginx" />
+        <br>Nginx
     </td>
     <td align="center" width="96">
       <img src="https://matplotlib.org/_static/images/logo2.svg" width="48" height="48" alt="Matplotlib" />
@@ -246,10 +246,6 @@
       <br>Polars
   </td>
   <td align="center" width="96">
-    <img src="https://www.svgrepo.com/show/373924/nginx.svg" width="48" height="48" alt="nginx" />
-      <br>Nginx
-  </td>
-  <td align="center" width="96">
     <img src="https://insidesources.com/wp-content/uploads/2020/03/bigstock-Ai-Artificial-Intelligence-Lo-343525045-e1583413134953-300x281.jpg" width="48" height="48" alt="promt_enginiering" />
       <br>Promt Enginiering
   </td>
@@ -264,6 +260,10 @@
   </td>
   <td align="center" width="96">
     <!-- Empty -->
+  </td>
+  <td align="center" width="96">
+    <!--       <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="48" height="48" alt="PySpark" /> -->
+  <!--       <br>PySpark -->
   </td>
   <td align="center" width="96">
 
@@ -368,12 +368,12 @@
 <div align="center" style="width: 90%; max-width: 1000px; margin: 20px auto; padding: 20px; background: #f9f9f9; border-radius: 15px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
   <h3 style="font-size: 2em; color: #3F51B5;">💡 Areas of Expertise</h3>
   <ul style="list-style-type: none; padding: 0; font-size: 1.1em; color: #333;">
-    <li><b>Backend Development:</b> Python, Django, Flask, SQLAlchemy, SQL, SQLite, MySQL</li>
-    <li><b>Data Analysis:</b> NumPy, Pandas, Polars, PySpark</li>
-    <li><b>Machine Learning:</b> Scikit-learn, Seaborn, Matplotlib</li>
+    <li><b>Backend Development:</b> Python, Django, Flask, SQL, Postgresql, SQLite, MySQL</li>
+    <li><b>Data Analysis:</b>Pandas, Polars</li>
+    <li><b>Machine Learning:</b> Scikit-learn</li>
     <li><b>DevOps:</b> Docker, VMware, VirtualBox</li>
-    <li><b>IDEs and Tools:</b> VSCode, PyCharm, DataGrip, DataSpell, Jupyter Notebook, Postman</li>
-    <li><b>Data Visualization:</b> Apache Superset, Kibana, Metabase</li>
+    <li><b>IDEs and Tools:</b> VSCode, PyCharm, DataGrip, DataSpell, Jupyter Notebook</li>
+    <li><b>Data Visualization:</b> Apache Superset, Kibana, Seaborn, Matplotlib, Plotly</li>
     <li><b>Web Development:</b> HTML5, CSS3, Bootstrap</li>
     <li><b>Version Control:</b> GitLab, GitHub</li>
     <li><b>Operating Systems:</b> Ubuntu, Windows</li>
@@ -400,7 +400,6 @@ mindmap
       NumPy
       Pandas
       Polars
-      PySpark
     Machine Learning
       Scikit-learn
       Seaborn
