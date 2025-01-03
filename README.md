@@ -52,6 +52,7 @@
 | 01  | **Data Science and Machine Learning Learning** | A repository containing learning materials and projects related to data science and ML. | [GitHub](https://github.com/ZygimantasB/data_science_ml_learning)                 |
 | 02  | **Data analysis, vizualization with Polars** | A repository containing learning materials and data analysis with library Polars. | [GitHub](https://github.com/ZygimantasB/polars_library)                |
 | 03  | **Code Wars** | A repository containing solutions from CodeWars. | [GitHub](https://github.com/ZygimantasB/code_wars_practice)                |
+| 04  | **PySpark** | A repository containing data analysis with PySpark. | [GitHub](https://github.com/ZygimantasB/-pyspark_training)              |
 
 </div>
 
