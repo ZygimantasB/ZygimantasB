@@ -109,7 +109,7 @@
       <br>Docker
     </td>
     <td align="center" width="96">
-      <img src="https://seeklogo.com/images/S/sqlalchemy-logo-4B94AE45D9-seeklogo.com.png" width="48" height="48" alt="SQLAlchemy" />
+      <img src="https://www.svgrepo.com/show/341068/sql.svg" width="48" height="48" alt="SQLAlchemy" />
       <br>SQLAlchemy
     </td>
     <td align="center" width="96">
@@ -164,7 +164,7 @@
       <br>DataGrip
     </td>
     <td align="center" width="96">
-      <img src="https://seeklogo.com/images/D/dataspell-logo-06435B9CF3-seeklogo.com.png" width="48" height="48" alt="DataSpell" />
+      <img src="https://iconlogovector.com/uploads/images/2024/04/lg-661b23b1519d3-DataSpell.webp" width="48" height="48" alt="DataSpell" />
       <br>DataSpell
     </td>
   </tr>
