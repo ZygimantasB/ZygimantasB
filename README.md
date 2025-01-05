@@ -53,7 +53,7 @@
 | 02  | **Data analysis, vizualization with Polars** | A repository containing learning materials and data analysis with library Polars. | [GitHub](https://github.com/ZygimantasB/polars_library)                |
 | 03  | **Code Wars** | A repository containing solutions from CodeWars. | [GitHub](https://github.com/ZygimantasB/code_wars_practice)                |
 | 04  | **PySpark** | A repository containing data analysis with PySpark. | [GitHub](https://github.com/ZygimantasB/-pyspark_training)              |
-| 05  | **Machine Learning Predictions** | A repository containing predicitons of variuso datasets. | [GitHub](https://github.com/ZygimantasB/scikit-learn_training)              |
+| 05  | **Machine Learning Predictions** | A repository containing prediction of various datasets. | [GitHub](https://github.com/ZygimantasB/scikit-learn_training)              |
 
 </div>
 
@@ -252,7 +252,8 @@
       <br>Promt Enginiering
   </td>
   <td align="center" width="96">
-    <!-- Empty -->
+          <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="48" height="48" alt="PySpark" />
+  <!      <br>PySpark (Learning)
   </td>
   <td align="center" width="96">
     <!-- Empty -->
@@ -264,8 +265,7 @@
     <!-- Empty -->
   </td>
   <td align="center" width="96">
-    <!--       <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="48" height="48" alt="PySpark" /> -->
-  <!--       <br>PySpark -->
+    <!-- Empty -->
   </td>
   <td align="center" width="96">
 
