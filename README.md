@@ -256,7 +256,8 @@
   <!      <br>PySpark (Learning)
   </td>
   <td align="center" width="96">
-    <!-- Empty -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png" width="48" height="48" alt="Sklearn" />
+      <br>Sklearn
   </td>
   <td align="center" width="96">
     <!-- Empty -->
