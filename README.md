@@ -291,48 +291,126 @@ I am passionate about uncovering insights and solving complex problems, transiti
 ## 🗺️ Knowledge Map
 
 <div align="center">
-  
-```mermaid
-mindmap
-  root((Žygimantas))
-    Backend Development
-      Python
-      Django
-      Flask
-      SQLAlchemy
-      REST APIs
-    Data Analysis
-      NumPy
-      Pandas
-      Polars
-      SQL
-    Machine Learning
-      Scikit-learn
-      PySpark
-      Feature Engineering
-    Data Visualization
-      Matplotlib
-      Seaborn
-      Plotly
-      Apache Superset
-      Kibana
-      Metabase
-    Databases
-      PostgreSQL
-      MySQL
-      SQLite
-      DuckDB
-      Elasticsearch
-    DevOps
-      Docker
-      Git
-      Linux
-      Nginx
-    Cybersecurity
-      Ethical Hacking
-      Network Security
-      OSINT
-```
+
+<!-- Skill Icons Banner -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,postgres,mysql,sqlite,elasticsearch&theme=dark&perline=8" alt="Core Skills" />
+</a>
+
+<br><br>
+
+<!-- Knowledge Areas with Visual Cards -->
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🐍 Backend Development
+<img src="https://skillicons.dev/icons?i=python,django,flask&theme=dark" width="120"/>
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-Advanced-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-Advanced-000000?style=flat-square&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-Advanced-D71F00?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST_APIs-Expert-009688?style=flat-square)
+
+</td>
+<td align="center" width="33%">
+
+### 📊 Data Analysis
+<img src="https://skillicons.dev/icons?i=python,anaconda&theme=dark" width="80"/>
+
+<br>
+
+![NumPy](https://img.shields.io/badge/NumPy-Expert-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Expert-150458?style=flat-square&logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-Advanced-CD792C?style=flat-square&logo=polars&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Expert-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+### 🤖 Machine Learning
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow&theme=dark" width="80"/>
+
+<br>
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Advanced-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-Intermediate-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![Feature Eng.](https://img.shields.io/badge/Feature_Engineering-Advanced-6C63FF?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+### 📈 Data Visualization
+<img src="https://skillicons.dev/icons?i=grafana&theme=dark" width="40"/>
+
+<br>
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Expert-11557c?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-Advanced-3776AB?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-Advanced-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Superset](https://img.shields.io/badge/Superset-Advanced-20A6C9?style=flat-square)
+![Kibana](https://img.shields.io/badge/Kibana-Intermediate-005571?style=flat-square&logo=kibana&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-Intermediate-509EE3?style=flat-square)
+
+</td>
+<td align="center" width="33%">
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,elasticsearch&theme=dark" width="160"/>
+
+<br>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Expert-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-Advanced-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-Intermediate-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-Intermediate-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+### ⚙️ DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,git,linux,nginx&theme=dark" width="160"/>
+
+<br>
+
+![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Expert-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Advanced-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-Intermediate-009639?style=flat-square&logo=nginx&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3">
+
+### 🔐 Cybersecurity
+<img src="https://skillicons.dev/icons?i=linux,bash&theme=dark" width="80"/>
+
+<br>
+
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-Intermediate-00C853?style=flat-square&logo=hackaday&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-Intermediate-FF5722?style=flat-square&logo=cisco&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-Intermediate-2196F3?style=flat-square&logo=osano&logoColor=white)
+![Penetration Testing](https://img.shields.io/badge/Pen_Testing-Intermediate-9C27B0?style=flat-square&logo=kalilinux&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Proficiency Legend -->
+<sub>
+🟢 <b>Expert</b> - Production-ready, deep knowledge &nbsp;&nbsp;|&nbsp;&nbsp;
+🔵 <b>Advanced</b> - Proficient, regular use &nbsp;&nbsp;|&nbsp;&nbsp;
+🟡 <b>Intermediate</b> - Working knowledge, growing
+</sub>
 
 </div>
 
