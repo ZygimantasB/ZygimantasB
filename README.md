@@ -109,11 +109,18 @@ I am passionate about uncovering insights and solving complex problems, transiti
 ### 🔐 Cybersecurity
 | Certification | Issuer | Date | Credential |
 |--------------|--------|------|------------|
+| **Enterprise Penetration Testing** | ![CodeAcademy](https://img.shields.io/badge/CodeAcademy-1F4056?style=flat&logo=codecademy&logoColor=white) | Nov 2025 | ✅ Verified |
+| **Linux Incident Response and Threat Hunting** | ![CodeAcademy](https://img.shields.io/badge/CodeAcademy-1F4056?style=flat&logo=codecademy&logoColor=white) | Oct 2025 | ✅ Verified |
 | **Ultimate Ethical Hacking and Penetration Testing** | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white) | Jul 2022 | [Verify](https://www.udemy.com/certificate/UC-1b4d010a-a6cd-46d2-ab66-cb9eb51d1913/) |
 | **Complete Cyber Security Course Vol.3 - Anonymous Browsing** | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white) | Jun 2022 | [Verify](https://www.udemy.com/certificate/UC-e98957b6-3627-443c-8fff-ae5c6a6e6250/) |
 | **Complete Cyber Security Course Vol.2 - Network Security** | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white) | May 2022 | [Verify](https://www.udemy.com/certificate/UC-23be45ef-3474-4ef0-8548-4de8de2257e9/) |
 | **Facebook OSINT Hacking** | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white) | Mar 2022 | [Verify](https://www.udemy.com/certificate/UC-94f357a0-53db-4e8c-8900-e940c7785ae4/) |
 | **Complete Cyber Security Course Vol.1 - Hackers Exposed** | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white) | Feb 2022 | [Verify](https://www.udemy.com/certificate/UC-e5b44fff-a732-457f-adde-66ac09f170aa/) |
+
+### 🌐 Languages
+| Certification | Issuer | Date | Credential |
+|--------------|--------|------|------------|
+| **General English Course** | ![Language Club](https://img.shields.io/badge/Language_Club-4CAF50?style=flat&logoColor=white) | Oct 2025 | LCS-2025-0840 |
 
 ### 🎓 Bootcamp
 | Certification | Issuer | Date | Credential |
