@@ -200,8 +200,6 @@ I am passionate about uncovering insights and solving complex problems, transiti
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZygimantasB/ZygimantasB/main/profile-3d-contrib/profile-green-animate.svg" />
     <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/ZygimantasB/ZygimantasB/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
   </picture>
-  
-  <sub>💡 If the 3D graph doesn't appear, please manually trigger the workflow in Actions tab</sub>
 </div>
 
 ---
