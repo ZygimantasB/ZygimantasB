@@ -12,7 +12,7 @@
   
   <!-- Profile Views & Social Badges -->
   <img src="https://komarev.com/ghpvc/?username=ZygimantasB&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/žygimantas-b-909939228/">
+  <a href="https://www.linkedin.com/in/%C5%BEygimantas-b-909939228/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://wakatime.com/@7d99a804-4ea4-48e9-8ab2-a1f8c025baeb">
@@ -32,7 +32,7 @@ I am passionate about uncovering insights and solving complex problems, transiti
 - 🌱 Learning **Advanced Machine Learning & Deep Learning**
 - 👯 Looking to collaborate on **Open-source Data Science Projects**
 - 💬 Ask me about **Python, Data Analysis, SQL, and Backend Development**
-- 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/žygimantas-b-909939228/)**
+- 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/%C5%BEygimantas-b-909939228/)**
 - ⚡ Fun fact: **I enjoy exploring new data science tools and frameworks!**
 
 <br clear="both">
@@ -167,7 +167,13 @@ Other        ░░░░░░░░░░░░░░░░░░░░░   2
 ## 🧊 3D Contribution Graph
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZygimantasB/ZygimantasB/main/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZygimantasB/ZygimantasB/main/profile-3d-contrib/profile-green-animate.svg" />
+    <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/ZygimantasB/ZygimantasB/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+  </picture>
+  
+  <sub>💡 If the 3D graph doesn't appear, please manually trigger the workflow in Actions tab</sub>
 </div>
 
 ---
@@ -175,13 +181,13 @@ Other        ░░░░░░░░░░░░░░░░░░░░░   2
 ## 📊 Advanced GitHub Metrics
 
 <div align="center">
-  <img src="./metrics/general.svg" alt="General Metrics" width="49%" />
-  <img src="./metrics/languages.svg" alt="Languages Metrics" width="49%" />
+  <img src="https://raw.githubusercontent.com/ZygimantasB/ZygimantasB/main/metrics/general.svg" alt="General Metrics" width="49%" />
+  <img src="https://raw.githubusercontent.com/ZygimantasB/ZygimantasB/main/metrics/languages.svg" alt="Languages Metrics" width="49%" />
 </div>
 
 <div align="center">
-  <img src="./metrics/habits.svg" alt="Coding Habits" width="49%" />
-  <img src="./metrics/isocalendar.svg" alt="Isometric Calendar" width="49%" />
+  <img src="https://raw.githubusercontent.com/ZygimantasB/ZygimantasB/main/metrics/habits.svg" alt="Coding Habits" width="49%" />
+  <img src="https://raw.githubusercontent.com/ZygimantasB/ZygimantasB/main/metrics/isocalendar.svg" alt="Isometric Calendar" width="49%" />
 </div>
 
 ---
@@ -328,11 +334,8 @@ mindmap
   
   ### 🤝 Let's Connect!
   
-  <a href="https://www.linkedin.com/in/žygimantas-b-909939228/">
+  <a href="https://www.linkedin.com/in/%C5%BEygimantas-b-909939228/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/ZygimantasB">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
