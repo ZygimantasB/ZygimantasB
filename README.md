@@ -279,8 +279,8 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=ZygimantasB&show_icons=true&theme=dark&hide_border=true" alt="ZygimantasB's GitHub Stats" />
   
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZygimantasB&theme=dark&hide_border=true" alt="ZygimantasB's GitHub Streak" />
+  <!-- GitHub Streak Stats - Updated to use working service -->
+  <img src="https://streak-stats.demolab.com?user=ZygimantasB&theme=dark&hide_border=true" alt="ZygimantasB's GitHub Streak" />
   
   <!-- WakaTime Stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -300,7 +300,7 @@
 
 <div align="center">
   <h2>🏆 GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=ZygimantasB&theme=darkhub&no-frame=true&no-bg=false&row=2&column=5&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ZygimantasB&theme=darkhub&no-frame=true&row=2&column=5" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -310,7 +310,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake Animation" style="width: 85%;">
+  <img src="https://raw.githubusercontent.com/ZygimantasB/ZygimantasB/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" style="width: 85%;">
 </div>
 
 ---
@@ -325,7 +325,7 @@
 <div align="center">
   <h2>👀 Visitor Counter</h2>
   <p><b>Number of Visitors to My Profile:</b></p>
-  <img src="https://profile-counter.glitch.me/{ZygimantasB}/count.svg" alt="Visitor Count">
+  <img src="https://profile-counter.glitch.me/ZygimantasB/count.svg" alt="Visitor Count">
 </div>
 
 ---
