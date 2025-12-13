@@ -279,7 +279,7 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=ZygimantasB&show_icons=true&theme=dark&hide_border=true" alt="ZygimantasB's GitHub Stats" />
   
-  <!-- GitHub Streak Stats - Updated to use working service -->
+  <!-- GitHub Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=ZygimantasB&theme=dark&hide_border=true" alt="ZygimantasB's GitHub Streak" />
   
   <!-- WakaTime Stats -->
@@ -300,17 +300,18 @@
 
 <div align="center">
   <h2>🏆 GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=ZygimantasB&theme=darkhub&no-frame=true&row=2&column=5" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=ZygimantasB&theme=darkhub&no-frame=true&row=2&column=5" alt="GitHub Trophies" />
 </div>
 
 ---
 
 <div align="center">
-  <h2>🐍 Dynamic Activity & Visitor Count</h2>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ZygimantasB/ZygimantasB/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" style="width: 85%;">
+  <h2>🐍 Contribution Snake</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZygimantasB/ZygimantasB/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZygimantasB/ZygimantasB/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/ZygimantasB/ZygimantasB/output/github-contribution-grid-snake.gif" style="width: 85%;" />
+  </picture>
 </div>
 
 ---
