@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: "0 2 * * *"  # Runs daily at 2 AM UTC
   workflow_dispatch:  # Allows manual trigger
-  push:
-    branches:
-      - main
 
 jobs:
   github-metrics:
@@ -56,12 +53,12 @@ jobs:
           template: classic
           base: ""
           plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: chartist
+          plugin_habits_days: 7
+          plugin_habits_facts: no
+          plugin_habits_from: 100
+          plugin_habits_trim: yes
           
       - name: Generate Isometric Calendar
         uses: lowlighter/metrics@latest
