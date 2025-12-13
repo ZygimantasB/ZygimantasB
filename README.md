@@ -19,9 +19,9 @@
     As I build my portfolio, I aim to contribute to meaningful projects where data drives innovation and success.
   </p>
   <p>
-    🔭 I’m currently working on <a href="https://github.com/ZygimantasB/data_science_ml_learning">Data Science and Machine Learning Projects</a><br>
-    🌱 I’m currently learning <strong>Advanced Machine Learning Techniques</strong><br>
-    👯 I’m looking to collaborate on <strong>Open-source Data Science Projects</strong><br>
+    🔭 I'm currently working on <a href="https://github.com/ZygimantasB/data_science_ml_learning">Data Science and Machine Learning Projects</a><br>
+    🌱 I'm currently learning <strong>Advanced Machine Learning Techniques</strong><br>
+    👯 I'm looking to collaborate on <strong>Open-source Data Science Projects</strong><br>
     💬 Ask me about <strong>Python, Data Analysis, and Backend Development</strong><br>
     📫 How to reach me: <a href="https://www.linkedin.com/in/žygimantas-b-909939228/">LinkedIn</a><br>
     ⚡ Fun fact: I enjoy exploring new data science tools and frameworks!
@@ -204,104 +204,71 @@
       <br>PostgreSQL
     </td>
   </tr>
-
   <!-- Fifth Row -->
-<tr>
-  <td align="center" width="96">
+  <tr>
+    <td align="center" width="96">
       <img src="https://www.svgrepo.com/show/354802/archlinux.svg" width="48" height="48" alt="ArchLinux" />
       <br>ArchLinux
-  </td>
-  <td align="center" width="96">
+    </td>
+    <td align="center" width="96">
       <img src="https://www.svgrepo.com/show/303574/elasticsearch-logo.svg" width="48" height="48" alt="ElasticSearch" />
       <br>ElasticSearch
-  </td>
-  <td align="center" width="96">
+    </td>
+    <td align="center" width="96">
       <img src="https://www.svgrepo.com/show/354912/debian.svg" width="48" height="48" alt="Debian" />
       <br>Debian
-  </td>
-  <td align="center" width="96">
+    </td>
+    <td align="center" width="96">
       <img src="https://www.svgrepo.com/show/354258/raspberry-pi.svg" width="48" height="48" alt="RaspberryPi" />
       <br>Raspberry Pi
-  </td>
-  <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Apple_logo_grey.svg/1024px-Apple_logo_grey.svg.png" width="48" height="48" alt="PostgreSQL" />
-      <br>MAC OS
-  </td>
-  <td align="center" width="96">
-      <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2017/01/04015019/plotly_logo.png" width="48" height="48" alt="Ploty" />
-      <br>Ploty
-  </td>
-  <td align="center" width="96">
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Apple_logo_grey.svg/1024px-Apple_logo_grey.svg.png" width="48" height="48" alt="macOS" />
+      <br>macOS
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2017/01/04015019/plotly_logo.png" width="48" height="48" alt="Plotly" />
+      <br>Plotly
+    </td>
+    <td align="center" width="96">
       <img src="https://img.icons8.com/?size=48&id=D5XsEXNbhkMI&format=png" width="48" height="48" alt="GitHub" />
       <br>GitHub
-  </td>
-  <td align="center" width="96">
+    </td>
+    <td align="center" width="96">
       <img src="https://eudriscabrera.com/images/blog/2022/f644e813-ff4f-41c0-af52-30cba1aa0d7c.001.png" width="48" height="48" alt="Regex" />
       <br>Regex
-  </td>
-</tr>
-
-  <!-- Fifth Row -->
-<tr>
-  <td align="center" width="96">
-    <img src="https://avatars.githubusercontent.com/u/83768144?s=48&v=4" width="48" height="48" alt="polars" />
+    </td>
+  </tr>
+  <!-- Sixth Row -->
+  <tr>
+    <td align="center" width="96">
+      <img src="https://avatars.githubusercontent.com/u/83768144?s=48&v=4" width="48" height="48" alt="Polars" />
       <br>Polars
-  </td>
-  <td align="center" width="96">
-    <img src="https://insidesources.com/wp-content/uploads/2020/03/bigstock-Ai-Artificial-Intelligence-Lo-343525045-e1583413134953-300x281.jpg" width="48" height="48" alt="promt_enginiering" />
-      <br>Promt Enginiering
-  </td>
-  <td align="center" width="96">
-          <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="48" height="48" alt="PySpark" />
-  <!      <br>PySpark (Learning)
-  </td>
-  <td align="center" width="96">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png" width="48" height="48" alt="Sklearn" />
-      <br>Sklearn
-  </td>
-  <td align="center" width="96">
-    <!-- Empty -->
-  </td>
-  <td align="center" width="96">
-    <!-- Empty -->
-  </td>
-  <td align="center" width="96">
-    <!-- Empty -->
-  </td>
-  <td align="center" width="96">
-
-  </td>
-</tr>
-
- <!-- Six Row -->
-<tr>
-  <td align="center" width="96">
-    <!-- Empty -->
-  </td>
-  <td align="center" width="96">
-    <!-- Empty -->
-  </td>
-  <td align="center" width="96">
-    <!-- Empty -->
-  </td>
-  <td align="center" width="96">
-    <!-- Empty -->
-  </td>
-  <td align="center" width="96">
-    <!-- Empty -->
-  </td>
-  <td align="center" width="96">
-    <!-- Empty -->
-  </td>
-  <td align="center" width="96">
-    <!-- Empty -->
-  </td>
-  <td align="center" width="96">
-
-  </td>
-</tr>
-
-
+    </td>
+    <td align="center" width="96">
+      <img src="https://insidesources.com/wp-content/uploads/2020/03/bigstock-Ai-Artificial-Intelligence-Lo-343525045-e1583413134953-300x281.jpg" width="48" height="48" alt="Prompt Engineering" />
+      <br>Prompt Engineering
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="48" height="48" alt="PySpark" />
+      <br>PySpark
+    </td>
+    <td align="center" width="96">
+      <!-- Empty -->
+    </td>
+    <td align="center" width="96">
+      <!-- Empty -->
+    </td>
+    <td align="center" width="96">
+      <!-- Empty -->
+    </td>
+    <td align="center" width="96">
+      <!-- Empty -->
+    </td>
+    <td align="center" width="96">
+      <!-- Empty -->
+    </td>
+  </tr>
 </table>
 
 ---
@@ -432,3 +399,8 @@ mindmap
     Operating Systems
       Ubuntu
       Windows
+```
+
+</div>
+
+---
