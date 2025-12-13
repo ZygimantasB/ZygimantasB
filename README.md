@@ -87,14 +87,38 @@ I am passionate about uncovering insights and solving complex problems, transiti
 
 <div align="center">
 
-| Certification | Issuer | Year | Status |
-|--------------|--------|------|--------|
-| 🐍 **Python for Data Science** | Self-taught | 2024 | ✅ Completed |
-| 📊 **Data Analysis with Pandas** | Self-taught | 2024 | ✅ Completed |
-| 🗄️ **SQL Fundamentals** | Self-taught | 2024 | ✅ Completed |
-| 🌐 **Django Web Development** | Self-taught | 2024 | ✅ Completed |
-| 🤖 **Machine Learning Basics** | Self-taught | 2024 | 🔄 In Progress |
-| ☁️ **Cloud Computing Fundamentals** | - | 2025 | 📋 Planned |
+### 🤖 Data Science & Machine Learning
+| Certification | Issuer | Date | Credential |
+|--------------|--------|------|------------|
+| **Python for Machine Learning & Data Science Masterclass** | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white) | Dec 2024 | [Verify](https://www.udemy.com/certificate/UC-c2f096d0-d651-4e6f-884f-ea9f7606dbbd/) |
+| **Data Analysis with Pandas and Python** | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white) | Mar 2024 | [Verify](https://www.udemy.com/certificate/UC-61f996f3-964a-4416-a156-eb136a0e9642/) |
+
+### 🐍 Python & Web Development
+| Certification | Issuer | Date | Credential |
+|--------------|--------|------|------------|
+| **Python** | ![CodeAcademy](https://img.shields.io/badge/CodeAcademy-1F4056?style=flat&logo=codecademy&logoColor=white) | Jul 2023 | UŽT-01422 |
+| **Python Django - The Practical Guide** | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white) | Jul 2023 | [Verify](https://www.udemy.com/certificate/UC-beef2866-7526-498d-b309-4838663631a7/) |
+| **Web Developer Bootcamp with Flask and Python** | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white) | Mar 2023 | [Verify](https://www.udemy.com/certificate/UC-11228216-d7f7-4946-b73b-463bc4fc8f25/) |
+| **Learn Python Programming Masterclass** | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white) | Nov 2022 | [Verify](https://www.udemy.com/certificate/UC-c9684e1d-0cc6-4713-ba60-c574dbb8dfa9/) |
+
+### 🗄️ Database
+| Certification | Issuer | Date | Credential |
+|--------------|--------|------|------------|
+| **The Ultimate MySQL Bootcamp: SQL Beginner to Expert** | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white) | Feb 2023 | [Verify](https://www.udemy.com/certificate/UC-d63d6a63-52f4-49c5-8b8b-f582877757a2/) |
+
+### 🔐 Cybersecurity
+| Certification | Issuer | Date | Credential |
+|--------------|--------|------|------------|
+| **Ultimate Ethical Hacking and Penetration Testing** | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white) | Jul 2022 | [Verify](https://www.udemy.com/certificate/UC-1b4d010a-a6cd-46d2-ab66-cb9eb51d1913/) |
+| **Complete Cyber Security Course Vol.3 - Anonymous Browsing** | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white) | Jun 2022 | [Verify](https://www.udemy.com/certificate/UC-e98957b6-3627-443c-8fff-ae5c6a6e6250/) |
+| **Complete Cyber Security Course Vol.2 - Network Security** | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white) | May 2022 | [Verify](https://www.udemy.com/certificate/UC-23be45ef-3474-4ef0-8548-4de8de2257e9/) |
+| **Facebook OSINT Hacking** | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white) | Mar 2022 | [Verify](https://www.udemy.com/certificate/UC-94f357a0-53db-4e8c-8900-e940c7785ae4/) |
+| **Complete Cyber Security Course Vol.1 - Hackers Exposed** | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white) | Feb 2022 | [Verify](https://www.udemy.com/certificate/UC-e5b44fff-a732-457f-adde-66ac09f170aa/) |
+
+### 🎓 Bootcamp
+| Certification | Issuer | Date | Credential |
+|--------------|--------|------|------------|
+| **Vilnius CODING School Graduate** | ![Vilnius CODING School](https://img.shields.io/badge/Vilnius_CODING_School-000000?style=flat&logoColor=white) | Nov 2021 | ✅ Verified |
 
 </div>
 
@@ -300,6 +324,10 @@ mindmap
       Git
       Linux
       Nginx
+    Cybersecurity
+      Ethical Hacking
+      Network Security
+      OSINT
 ```
 
 </div>
