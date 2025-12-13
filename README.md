@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/W1ppMxSs/unnamed.jpg" alt="Welcome Banner" style="width:35%;">
+  <img src="https://i.postimg.cc/W1ppMxSs/unnamed.jpg" alt="Welcome Banner" width="500">
   
   <h1>Hi there, I'm Žygimantas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
   
