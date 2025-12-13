@@ -214,7 +214,7 @@ I am passionate about uncovering insights and solving complex problems, transiti
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ZygimantasB/ZygimantasB/main/metrics/habits.svg" alt="Coding Habits" width="49%" />
+  <img src="https://raw.githubusercontent.com/ZygimantasB/ZygimantasB/main/metrics/habits.svg" alt="GitHub Achievements" width="49%" />
   <img src="https://raw.githubusercontent.com/ZygimantasB/ZygimantasB/main/metrics/isocalendar.svg" alt="Isometric Calendar" width="49%" />
 </div>
 
