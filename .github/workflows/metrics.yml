@@ -44,7 +44,7 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           
-      - name: Generate Habits Metrics
+      - name: Generate Activity Metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -52,13 +52,11 @@ jobs:
           user: ZygimantasB
           template: classic
           base: ""
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: chartist
-          plugin_habits_days: 7
-          plugin_habits_facts: no
-          plugin_habits_from: 100
-          plugin_habits_trim: yes
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_visibility: public
           
       - name: Generate Isometric Calendar
         uses: lowlighter/metrics@latest
