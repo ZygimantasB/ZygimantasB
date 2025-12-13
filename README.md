@@ -141,16 +141,20 @@ I am passionate about uncovering insights and solving complex problems, transiti
 
 <div align="center">
 
-<!--START_SECTION:waka-->
-```text
-📊 This Week I Spent My Time On:
+<a href="https://wakatime.com/@7d99a804-4ea4-48e9-8ab2-a1f8c025baeb">
+  <img src="https://img.shields.io/badge/WakaTime-Tracking%20Since%20Nov%202024-00A8E8?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime" />
+</a>
 
-Python       ██████████████████░░░   85%
-SQL          ███░░░░░░░░░░░░░░░░░░   10%
-Markdown     █░░░░░░░░░░░░░░░░░░░░   3%
-Other        ░░░░░░░░░░░░░░░░░░░░░   2%
-```
-<!--END_SECTION:waka-->
+<br><br>
+
+| Language | Time Spent | Progress |
+|:--------:|:----------:|:--------:|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | **~85%** | ![](https://geps.dev/progress/85?dangerColor=3776AB&warningColor=3776AB&successColor=3776AB) |
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | **~10%** | ![](https://geps.dev/progress/10?dangerColor=4479A1&warningColor=4479A1&successColor=4479A1) |
+| ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) | **~3%** | ![](https://geps.dev/progress/3?dangerColor=000000&warningColor=000000&successColor=000000) |
+| ![Other](https://img.shields.io/badge/Other-607D8B?style=flat-square&logoColor=white) | **~2%** | ![](https://geps.dev/progress/2?dangerColor=607D8B&warningColor=607D8B&successColor=607D8B) |
+
+<br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ZygimantasBr&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
