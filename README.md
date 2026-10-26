@@ -4,7 +4,7 @@
   <h1>Hi there, I'm Žygimantas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
   
   <!-- Animated Typing -->
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Data+Analyst+%7C+Python+Developer;Machine+Learning+Enthusiast;Backend+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
   </a>
   
@@ -163,9 +163,12 @@ I am passionate about uncovering insights and solving complex problems, transiti
 
 <br>
 
+<!-- WakaTime card disabled: it shows "profile not public" until you enable
+     "Display code time publicly" + "Display languages publicly" at https://wakatime.com/settings/profile
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ZygimantasBr&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
 </a>
+-->
 
 </div>
 
@@ -182,7 +185,7 @@ I am passionate about uncovering insights and solving complex problems, transiti
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZygimantasB&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+  <img src="./metrics/activity-graph.svg" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
@@ -214,14 +217,17 @@ I am passionate about uncovering insights and solving complex problems, transiti
 ## 📊 Advanced GitHub Metrics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ZygimantasB/ZygimantasB/main/metrics/general.svg" alt="General Metrics" width="49%" />
-  <img src="https://raw.githubusercontent.com/ZygimantasB/ZygimantasB/main/metrics/languages.svg" alt="Languages Metrics" width="49%" />
+  <img src="./metrics/general.svg" alt="General Metrics" width="49%" />
+  <img src="./metrics/isocalendar.svg" alt="Isometric Calendar" width="49%" />
 </div>
 
+<!-- Languages + Achievements panels need a METRICS_TOKEN repo secret (a personal access token).
+     With only GITHUB_TOKEN they render "0 Languages" / "Unexpected error". Re-enable after adding the secret:
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ZygimantasB/ZygimantasB/main/metrics/habits.svg" alt="GitHub Achievements" width="49%" />
-  <img src="https://raw.githubusercontent.com/ZygimantasB/ZygimantasB/main/metrics/isocalendar.svg" alt="Isometric Calendar" width="49%" />
+  <img src="./metrics/languages.svg" alt="Languages Metrics" width="49%" />
+  <img src="./metrics/habits.svg" alt="GitHub Achievements" width="49%" />
 </div>
+-->
 
 ---
 
